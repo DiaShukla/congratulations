@@ -1,0 +1,5 @@
+print("please write congratulations in all lowercase, I will turn it into uppercase!")
+
+u = input("write congratulations here :")
+
+print("CONGRATULATIONS")
